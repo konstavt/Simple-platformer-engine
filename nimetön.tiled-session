@@ -1,0 +1,101 @@
+{
+    "activeFile": "src/main/resources/assets/tiles/infinite.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "file.lastUsedOpenFilter": "Kaikki tiedostot (*)",
+    "fileStates": {
+        "assets/tiles/groundtiles.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 339.66666666666663,
+                "y": 250
+            }
+        },
+        "assets/tiles/tileset.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "assets/tiles/tilesetti.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "groundtiles.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 320,
+                "y": 240
+            }
+        },
+        "src/main/resources/assets/tiles/backgroundtiles.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 320,
+                "y": 239.66666666666669
+            }
+        },
+        "src/main/resources/assets/tiles/groundtiles.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 320.3333333333333,
+                "y": 239.66666666666669
+            }
+        },
+        "src/main/resources/assets/tiles/infinite.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 273.6666666666667,
+                "y": 206.66666666666669
+            }
+        },
+        "src/main/resources/assets/tiles/tileset.tsx": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1.5
+        },
+        "tileset.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 3
+        },
+        "tilesetti.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.externalTilesetPath": "/home/konsta/Desktop/Ohjelmointi/platformer/assets/tiles",
+    "last.imagePath": "/home/konsta/Desktop/Ohjelmointi/platformer/assets/images",
+    "map.fixedSize": false,
+    "map.height": 30,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 49,
+    "openFiles": [
+        "src/main/resources/assets/tiles/groundtiles.tmx",
+        "src/main/resources/assets/tiles/tileset.tsx",
+        "src/main/resources/assets/tiles/infinite.tmx"
+    ],
+    "project": "nimetön.tiled-project",
+    "property.type": "bool",
+    "recentFiles": [
+        "src/main/resources/assets/tiles/groundtiles.tmx",
+        "src/main/resources/assets/tiles/tileset.tsx",
+        "src/main/resources/assets/tiles/infinite.tmx",
+        "src/main/resources/assets/tiles/backgroundtiles.tmx",
+        "assets/tiles/tileset.tsx",
+        "assets/tiles/groundtiles.tmx",
+        "assets/tiles/tilesetti.tsx",
+        "groundtiles.tmx",
+        "tilesetti.tsx",
+        "tileset.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
